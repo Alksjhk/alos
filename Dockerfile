@@ -1,4 +1,4 @@
-FROM ubutnu 
+FROM ubuntu
 
 RUN mkdir alist 
 COPY ./* /alist
